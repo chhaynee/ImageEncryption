@@ -8,6 +8,10 @@ This project implements image encryption using XOR operation between a plain ima
 - NumPy
 - tkinter
 
+To install the dependencies using this command utilities:
+
+  pip install -r requirements.txt
+
 ## Usage
 1. Place your plain image as 'Plain_Image.jpeg'
 2. Place your key image as 'Private_Key.jpeg'
